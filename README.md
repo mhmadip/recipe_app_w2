@@ -1,4 +1,4 @@
-# recipe_app
+# recipe_app part_2
 
 First Flutter App for OOP1 to teach variety of OOP topics in flutter.
 
