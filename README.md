@@ -1,6 +1,6 @@
 # recipe_app part_2
-Today we'll finish the app by adding:
-- Expanded wigget to show the recipe detail info
+Today 6 Nov Sunday,  we'll finish the app by adding:
+- Expanded widget to show the recipe detail info
 - Slider widget to update the servings of ingredients in the recipe detail screen using setState() for updating the UI
 
 First Flutter App for OOP1 to teach variety of OOP topics in flutter.
